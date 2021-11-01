@@ -1,0 +1,19 @@
+{
+  "name": "srt-2-ttml",
+  "version": "1.0.0",
+  "description": "SRT to TTML subtitle file format converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "srt",
+    "ttml",
+    "subtitle"
+  ],
+  "author": "Dorjsuren O.",
+  "license": "ISC",
+  "dependencies": {
+    "srt-parser-2": "^1.1.6"
+  }
+}
