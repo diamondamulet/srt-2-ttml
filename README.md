@@ -8,4 +8,4 @@
 - npm i
 
 ## Run
-- node index.js ./subs/Moana.srt > ./subs/Moana.ttml
+- node index.js ./subs/MulanMon.srt > ./subs/MulanMon.ttml
